@@ -1,1 +1,5 @@
-Para uma melhor visualização foi transformado o site wordpress em estático, logo basta baixar os arquivos e executar o index.html
+#Site PetShop
+<div style="align: center">
+  <img src="./images/pet-shop-logo-150x150.png" />
+  <p>Para acessar o site basta utilizar o link : https://marlon380.github.io/Pet-Shop/</p>
+</div>
